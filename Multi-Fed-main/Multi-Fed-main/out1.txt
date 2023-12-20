@@ -1,0 +1,132 @@
+Running IL with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+output
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.6783333333333333, 0.5066666666666667, 0.61, 0.6566666666666666]
+[0.625, 0.8416666666666667, 0.835, 0.6616666666666666]
+[0.9033333333333333, 0.9216666666666666, 0.96, 0.9516666666666667]
+Running FD with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+feature
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.6583333333333333, 0.54, 0.56, 0.695]
+[0.635, 0.8683333333333333, 0.8166666666666667, 0.6633333333333333]
+[0.9466666666666667, 0.9033333333333333, 0.9766666666666667, 0.9566666666666667]
+----------------------------------------------------
+Running IL with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+output
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.7116666666666667, 0.575, 0.79, 0.8733333333333333]
+[0.565, 0.8333333333333334, 0.675, 0.3883333333333333]
+[0.945, 0.9116666666666666, 0.9266666666666666, 0.79]
+Running FD with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+feature
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.6366666666666667, 0.595, 0.7533333333333333, 0.8516666666666667]
+[0.715, 0.8433333333333334, 0.7166666666666667, 0.44]
+[0.97, 0.915, 0.9416666666666667, 0.795]
+----------------------------------------------------
+Running IL with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+output
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.7216666666666667, 0.7466666666666667, 0.8816666666666667, 0.635]
+[0.7483333333333333, 0.7016666666666667, 0.36333333333333334, 0.6883333333333334]
+[0.6883333333333334, 0.9116666666666666, 0.8983333333333333, 0.9333333333333333]
+Running FD with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+feature
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.6933333333333334, 0.72, 0.8766666666666667, 0.725]
+[0.7666666666666667, 0.6366666666666667, 0.4083333333333333, 0.6016666666666667]
+[0.8783333333333333, 0.915, 0.8233333333333334, 0.9233333333333333]
+----------------------------------------------------
+Running IL with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+output
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.5533333333333333, 0.625, 0.7433333333333333, 0.645]
+[0.8533333333333334, 0.8233333333333334, 0.6383333333333333, 0.555]
+[0.7733333333333333, 0.755, 0.9433333333333334, 0.965]
+Running FD with 4 clients
+Device: cuda
+** Using COVID **
+Load train data...
+Load validation data...
+Dataset sizes:
+	- Train: (1800, 1, 200, 200) (288.0144 MB)
+	- Validation (1800, 1, 200, 200) (288.0144 MB)
+feature
+
+Final average performance:
+Train acc
+Data size : 600 Collab Flag :False
+[0.84, 0.6216666666666667, 0.7116666666666667, 0.7516666666666667]
+[0.7033333333333334, 0.8733333333333333, 0.7166666666666667, 0.625]
+[0.725, 0.82, 0.9366666666666666, 0.92]
+----------------------------------------------------
